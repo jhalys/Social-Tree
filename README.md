@@ -1,4 +1,5 @@
 # Social Tree
+Desafio do Discover da Rocketseat
 
 * Este é um desafio da Trilha Fundamentar do Discover da Rocketseat.
 * Foram usadas as linguagens HTML e CSS.
